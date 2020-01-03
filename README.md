@@ -5,7 +5,7 @@
 
 ## List
 
-- [ ] One research paper a day for 360 (+,-)  5 --> will upload a notebook every.
+- [ ] One research paper a day for 360 +- 5 --> will upload a notebook every.
 
 - [ ] Create my own portfolio webpage in html and css.
 
